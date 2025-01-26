@@ -28,15 +28,11 @@ A simple **Blog-Post Application** built using the MERN stack, designed for **se
 ## Screenshots
 
 ### **Create Page**
-![Home Page](![image](https://github.com/user-attachments/assets/e8a10fdf-f332-408f-a282-8eac45082716)
-)
+![Home Page](https://github.com/user-attachments/assets/e8a10fdf-f332-408f-a282-8eac45082716)
 
 ### **Read Page**
-![Add Post](![image](https://github.com/user-attachments/assets/b06b9351-99bb-4c67-aa53-e51e1cd88583)
-)
+![Add Post](https://github.com/user-attachments/assets/b06b9351-99bb-4c67-aa53-e51e1cd88583)
 
 ### **Update Page**
-![View Post](![image](https://github.com/user-attachments/assets/0fcd4e70-3ccf-4f97-a070-7988e4736ee9)
-)
-
+![View Post](https://github.com/user-attachments/assets/0fcd4e70-3ccf-4f97-a070-7988e4736ee9)
 
